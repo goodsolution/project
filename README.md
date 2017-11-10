@@ -1,1 +1,3 @@
 # project
+
+KS - nowy commit 
