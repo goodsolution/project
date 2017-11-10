@@ -1,4 +1,4 @@
-# project 2
+# project 3
 
 To jest super projekt
 KS - nowy commit 
