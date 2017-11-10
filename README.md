@@ -11,3 +11,7 @@ KS- commit3
 KS- commit4
 KS- commit5
 KS- commit6
+a
+b
+cherry
+amend
